@@ -1,2 +1,2 @@
 # Runnin-Cube
- my first completeded game project ---- " Play Fullscreen "
+ my first completed game project ---- " Play Fullscreen "
